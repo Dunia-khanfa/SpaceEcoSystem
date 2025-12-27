@@ -29,5 +29,7 @@ Log Waste Form: Validated data entry for weight and material type.
 Safety Card: Specialized handling instructions for dangerous goods.
 My Log: Personal shift activity history and reporting status.
 
+🔗 Project Link
+You can access the live project or repository here: [Insert Link Here]
 
-Developed by: Roy Yaari, Reut Alon, and Dunia Khanfa.
+Developed by: Roy Yaari, Reut Alon, & Dunia Khanfa.
